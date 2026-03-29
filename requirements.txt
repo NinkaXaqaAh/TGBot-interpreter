@@ -1,0 +1,4 @@
+aiogram==3.26.0
+pydantic-settings>=2.13.0
+python-dotenv>=1.0.1
+groq>=1.1.0
